@@ -1046,10 +1046,10 @@ h2 {
   letter-spacing: 0.045em;
   text-transform: uppercase;
   white-space: nowrap;
-}// Just to make it a bit nice
-body {
-  font-family: 'Source Code Pro', sans-serif;
 }
+
+// Just to make it a bit nice
+
 .wrap {
   padding: 10% 20%;
 }
